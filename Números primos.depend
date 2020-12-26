@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1463935031 source:c:\users\marco aurélio\desktop\números primos\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1476905596 source:c:\users\marco\onedrive\documentos\c e c++\projetos\números primos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
